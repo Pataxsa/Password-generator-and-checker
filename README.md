@@ -6,7 +6,7 @@
   <h3 align="center">Password-generator-and-checker</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An basic password generator and checker
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
