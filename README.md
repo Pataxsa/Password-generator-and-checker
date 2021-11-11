@@ -40,7 +40,9 @@
 </details>
 
 <h2 id="utility">🔨 - Utility</h2>
-<p>You can check passwords !</p>
+<p>1. You can easly create strong passwords !</p>
+<p>2. You can check if your passwords are strong !</p>
+
 
 <h2 id="image">🖼️ - Image</h2>
 
