@@ -6,7 +6,7 @@
   <h3 align="center">Password-generator-and-checker</h3>
 
   <p align="center">
-    An basic password generator and checker
+    An basic password generator and checker Open Source
     <br />
     <a href="https://github.com/Pataxsa/Password-generator-and-checker/releases/latest"><strong>-> Install the latest version <-</strong></a>
     <br />
