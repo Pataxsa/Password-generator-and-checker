@@ -41,7 +41,9 @@
 
 <h2 id="utility">🔨 - Utility</h2>
 <p>1. You can easly create strong passwords !</p>
-<p>2. You can check if your passwords are strong !</p>
+<p>2. You can choose the password length !</p>
+<p>3. You can check if your passwords are strong !</p>
+<p>4. If your password is not well protected the app will tell you what the problems are !</p>
 
 
 <h2 id="image">🖼️ - Image</h2>
