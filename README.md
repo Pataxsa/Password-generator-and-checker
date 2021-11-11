@@ -1,3 +1,4 @@
+<div id="top"></div>
 <div align="center">
   <a href="https://github.com/Pataxsa/Password-generator-and-checker/">
     <img src="https://raw.githubusercontent.com/Pataxsa/Password-generator-and-checker/main/PasswordGenerator/icon.png" alt="Logo" width="80" height="80">
@@ -51,6 +52,6 @@
   </ol>
 </details>
 
-<!-- UTILITY -->
 ## 🔨 - Utility
+<div id="utility"></div>
 <p>You can check passwords !</p>
