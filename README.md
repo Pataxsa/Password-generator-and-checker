@@ -1,9 +1,9 @@
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/Pataxsa/Password-generator-and-checker/">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h1 align="center">Password-generator-and-checker</h1>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
