@@ -22,6 +22,7 @@
   
   [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://github.com/Pataxsa/Password-generator-and-checker)
   [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Pataxsa/Password-generator-and-checker)
+  [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
   
 </div>
 
