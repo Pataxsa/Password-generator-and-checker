@@ -8,7 +8,7 @@
   <p align="center">
     An basic password generator and checker
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Pataxsa/Password-generator-and-checker/releases/latest"><strong>-> Install the latest version <-</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
