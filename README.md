@@ -12,7 +12,7 @@
     <a href="https://github.com/Pataxsa/Password-generator-and-checker/releases/latest"><strong>-> Install the latest version <-</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="#image">View Image</a>
     ·
     <a href="https://github.com/Pataxsa/Password-generator-and-checker/issues">Report Bug</a>
     ·
