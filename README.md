@@ -15,7 +15,7 @@
     ·
     <a href="https://github.com/Pataxsa/Password-generator-and-checker/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Pataxsa/">Others projects</a>
+    <a href="https://github.com/Pataxsa?tab=repositories">Others projects</a>
   </p>
 </div>
 <div align="center">
