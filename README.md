@@ -26,12 +26,11 @@
   
 </div>
 
-<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#🔨- Utility">Utility</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -52,5 +51,5 @@
   </ol>
 </details>
 
-<h2>🔨- Utility</h2>
+##🔨- Utility
 <p>You can check passwords !</p>
