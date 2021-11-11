@@ -44,6 +44,6 @@
 
 <h2 id="utility">🖼️ - Image</h2>
 
-[<img src="images/logo.png" alt="Logo" width="80" height="80">](https://example.com)
+[<img src="image.png" alt="Logo" width="80" height="80">](https://example.com)
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
