@@ -1,4 +1,4 @@
-# Password-generator-and-checker
+<h1 align="center">Password-generator-and-checker</h1>
 <div align="center">
   
   [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
