@@ -30,7 +30,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#🔨---utility">Utility</a>
+      <a href="#utility">Utility</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -51,5 +51,6 @@
   </ol>
 </details>
 
+<!-- UTILITY -->
 ## 🔨 - Utility
 <p>You can check passwords !</p>
