@@ -44,6 +44,6 @@
 
 <h2 id="utility">🖼️ - Image</h2>
 
-[<img src="./Image.png" alt="Image" width="80" height="80">](https://example.com)
+[<img src="https://raw.githubusercontent.com/Pataxsa/Password-generator-and-checker/main/Image.PNG" alt="Image" width="80" height="80">](https://example.com)
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
