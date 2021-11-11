@@ -6,5 +6,5 @@
   
 </div>
 
-<h2>🔨- Utility:</h2>
+<h2>🔨- Utility</h2>
 <p>You can check passwords !</p>
