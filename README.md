@@ -3,7 +3,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h1 align="center">Password-generator-and-checker</h1>
+  <h3 align="center">Password-generator-and-checker</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
