@@ -55,3 +55,5 @@
 ## 🔨 - Utility
 <div id="utility"></div>
 <p>You can check passwords !</p>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
