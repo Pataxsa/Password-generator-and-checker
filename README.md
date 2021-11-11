@@ -52,8 +52,7 @@
   </ol>
 </details>
 
-## 🔨 - Utility
-<div id="utility"></div>
+<h2 id="utility">🔨 - Utility</h2>
 <p>You can check passwords !</p>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Back to top</a>)</p>
