@@ -5,4 +5,6 @@
   [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
   
 </div>
-<p>There is the best password generator and checker !</p>
+
+<h2>🔨- Utility:</h2>
+<p>You can check passwords !</p>
